@@ -1,0 +1,4 @@
+__pycache__
+.env
+data.csv
+top_wallets.txt
